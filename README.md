@@ -8,7 +8,7 @@ Secondly, it leverages the Transformer for end-to-end estimation. Compared to it
 
 
 Links to our paper: [Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi](https://github.com/aiotgroup/Person-in-WiFi3D)
-https://github.com/aiotgroup/Person-in-WiFi3D/assets/96166485/54cf189c-6a29-49e3-906f-4ec39be0dc93
+![image](demo/demo.gif)
 ## Prerequisites
 
 - Linux
