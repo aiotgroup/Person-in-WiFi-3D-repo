@@ -8,7 +8,7 @@ Secondly, it leverages the Transformer for end-to-end estimation. Compared to it
 
 
 Links to our paper: [Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi](https://github.com/aiotgroup/Person-in-WiFi3D)
-
+https://github.com/aiotgroup/Person-in-WiFi3D/assets/96166485/54cf189c-6a29-49e3-906f-4ec39be0dc93
 ## Prerequisites
 
 - Linux
@@ -86,3 +86,35 @@ Opera is an open source project built upon [OpenMMLab](https://github.com/open-m
 ```
 
 
+## Citations
+
+If you find our works useful in your research, please consider citing:
+```BibTeX
+@inproceedings{shi2022end,
+  title={End-to-End Multi-Person Pose Estimation With Transformers},
+  author={Shi, Dahu and Wei, Xing and Li, Liangqi and Ren, Ye and Tan, Wenming},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11069--11078},
+  year={2022}
+}
+
+@inproceedings{yu2022soit,
+  title={SOIT: Segmenting Objects with Instance-Aware Transformers},
+  author={Yu, Xiaodong and Shi, Dahu and Wei, Xing and Ren, Ye and Ye, Tingqun and Tan, Wenming},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  pages={3188--3196},
+  year={2022}
+}
+
+@inproceedings{shi2021inspose,
+  title={Inspose: instance-aware networks for single-stage multi-person pose estimation},
+  author={Shi, Dahu and Wei, Xing and Yu, Xiaodong and Tan, Wenming and Ren, Ye and Pu, Shiliang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={3079--3087},
+  year={2021}
+}
+```
+
+## License
+
+This project is released under the [Apache 2.0 license](LICENSE).
