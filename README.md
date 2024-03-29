@@ -94,6 +94,13 @@ Opera is an open source project built upon [OpenMMLab](https://github.com/open-m
 
 If you find our works useful in your research, please consider citing:
 ```BibTeX
+@inproceedings{person3dyan,
+  title={Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi },
+  author={Kangwei Yan, Fei Wang, Bo Qian, Han Ding, Jinsong Han, Xing Wei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year = {2024}
+}
+
 @inproceedings{shi2022end,
   title={End-to-End Multi-Person Pose Estimation With Transformers},
   author={Shi, Dahu and Wei, Xing and Li, Liangqi and Ren, Ye and Tan, Wenming},
