@@ -96,7 +96,7 @@ If you find our works useful in your research, please consider citing:
 ```BibTeX
 @inproceedings{person3dyan,
   title={Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi },
-  author={Kangwei Yan, Fei Wang, Bo Qian, Han Ding, Jinsong Han, Xing Wei},
+  author={Yan, Kangwei and Wang, Fei and Qian, Bo and Ding, Han and Han, Jinsong and Wei, Xing},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year = {2024}
 }
@@ -109,21 +109,7 @@ If you find our works useful in your research, please consider citing:
   year={2022}
 }
 
-@inproceedings{yu2022soit,
-  title={SOIT: Segmenting Objects with Instance-Aware Transformers},
-  author={Yu, Xiaodong and Shi, Dahu and Wei, Xing and Ren, Ye and Ye, Tingqun and Tan, Wenming},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  pages={3188--3196},
-  year={2022}
-}
 
-@inproceedings{shi2021inspose,
-  title={Inspose: instance-aware networks for single-stage multi-person pose estimation},
-  author={Shi, Dahu and Wei, Xing and Yu, Xiaodong and Tan, Wenming and Ren, Ye and Pu, Shiliang},
-  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
-  pages={3079--3087},
-  year={2021}
-}
 ```
 
 ## License
