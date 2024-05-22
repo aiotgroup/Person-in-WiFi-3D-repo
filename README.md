@@ -7,9 +7,8 @@ Secondly, it leverages the Transformer for end-to-end estimation. Compared to it
 97K frames with seven volunteers. Person-in-WiFi 3D attains 3D joint localization errors of 91.7mm (1-person), 108.1mm (2-person), and 125.3mm (3-person), comparable to cameras and millimeter-wave radars.
 
 
-Links to our paper: [Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi](https://github.com/aiotgroup/Person-in-WiFi3D)
-
-
+Links to our Project: [Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi](https://aiotgroup.github.io/Person-in-WiFi-3D/)
+Links to our Code   : [Person-in-WiFi 3D repo](https://github.com/aiotgroup/Person-in-WiFi3D)
 
  <img src="demo/demo mini.gif" width = "900" height = "300" alt="demo gif" align=center />
 
